@@ -8,7 +8,7 @@
 :root {
   --primary-color: #5da5a4;
   --defaultcolor: #eef7f6;
-  --header-backgroundimg: url('../../JF/public/img/bg-header-desktop.svg');
+  --header-backgroundimg: url('../img/bg-header-desktop.svg');
   --radius: 0.625rem;
 
   --background: oklch(1 0 0);
